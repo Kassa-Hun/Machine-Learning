@@ -1,2 +1,2 @@
 # ml-dl-ds
-1. Machine Learing, Deep Learing and Data Science repository 
+1. Machine Learning, Deep Learning and Data Science repository 
