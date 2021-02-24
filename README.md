@@ -1,2 +1,2 @@
 # ML
-1. Machine Learning repository 
+1. Supervised and unsupervised machine learning algorithms implementation
